@@ -54,7 +54,8 @@ The Sine Wave Generator has the following dependencies:
 ## License
 
 This project is licensed under the GPLv2 License - see the [LICENSE](LICENSE) file for details.
-Contributing
+
+## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
