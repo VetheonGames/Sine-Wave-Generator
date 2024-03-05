@@ -1,2 +1,8 @@
-frequency: 20.0  # Hz
-sample_rate: 100  # Samples per second
+frequency: 1.0  # Hz. Default: 1.0
+sample_rate: 100  # Samples per sleep time. Default: 100
+sleep_time: 0.1 # Time to wait between taking samples in seconds. Default: 0.1
+
+# Minimum possible value of Sine Wave. Disabled by default. Uncomment line to limit min value
+#min_value: -3
+# Maxmum possible value of Sine Wave. Disabled by default. Uncomment line to limit max value
+#max_value: 3
